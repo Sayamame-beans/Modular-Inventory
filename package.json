@@ -1,0 +1,16 @@
+{
+  "name": "com.github.sayamame-beans.modular-inventory",
+  "version": "0.0.0",
+  "displayName": "Modular Inventory",
+  "author": {
+    "name": "Sayamame-beans",
+    "url": "https://github.com/Sayamame-beans"
+  },
+  "url": "https://github.com/Sayamame-beans/Modular-Inventory",
+  "repo": "https://sayabeans.github.io/vpm/index.json",
+  "vpmDependencies": {
+    "com.vrchat.avatars": ">=3.4.2 <3.6.0"
+  },
+  "description": "A NDMF-tool for creating Expression Menu to toggle outfits/objects.",
+  "unity": "2019.4"
+}

@@ -1,11 +1,10 @@
 {
-    "name": "com.github.sayamame-beans.modular-inventory.editor",
+    "name": "com.github.sayamame-beans.modular-inventory.runtime",
+    "rootNamespace": "",
     "references": [
-        "com.github.sayamame-beans.modular-inventory.runtime"
+        "nadena.dev.ndmf.runtime"
     ],
-    "includePlatforms": [
-        "Editor"
-    ],
+    "includePlatforms": [],
     "excludePlatforms": [],
     "allowUnsafeCode": false,
     "overrideReferences": false,

@@ -7,7 +7,7 @@ namespace Sayabeans.ModularInventory
     [CustomEditor(typeof(InventoryData))]
     internal class InventoryDataEditor : Editor
     {
-        private override void OnInspectorGUI()
+        public override void OnInspectorGUI()
         {
             EditorGUILayout.LabelField("まだ何もありません。");
         }
